@@ -1,0 +1,17 @@
+10:32:25 **** Incremental Build of configuration Debug for project 008_Task_PrioSwap ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m7 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F767xx -c -I../Core/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc -I../Drivers/STM32F7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F7xx/Include -I../Drivers/CMSIS/Include -I"D:/Solomon/SelfLearning/Udemy/EmbeddedRTOS/RTOS_Workspace/common/ThirdParty/FreeRTOS/include" -I"D:/Solomon/SelfLearning/Udemy/EmbeddedRTOS/RTOS_Workspace/common/ThirdParty/Segger/Config" -I"D:/Solomon/SelfLearning/Udemy/EmbeddedRTOS/RTOS_Workspace/common/ThirdParty/Segger/OS" -I"D:/Solomon/SelfLearning/Udemy/EmbeddedRTOS/RTOS_Workspace/common/ThirdParty/Segger/Segger" -I"D:/Solomon/SelfLearning/Udemy/EmbeddedRTOS/RTOS_Workspace/common/ThirdParty/FreeRTOS" -I"D:/Solomon/SelfLearning/Udemy/EmbeddedRTOS/RTOS_Workspace/common/ThirdParty/FreeRTOS/portable/GCC/ARM_CM7/r0p1" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "008_Task_PrioSwap.elf" @"objects.list"   -mcpu=cortex-m7 -T"D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\008_Task_PrioSwap\STM32F767ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="008_Task_PrioSwap.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 008_Task_PrioSwap.elf
+ 
+arm-none-eabi-size  008_Task_PrioSwap.elf 
+arm-none-eabi-objdump -h -S 008_Task_PrioSwap.elf  > "008_Task_PrioSwap.list"
+   text	   data	    bss	    dec	    hex	filename
+  30120	     28	  51868	  82016	  14060	008_Task_PrioSwap.elf
+Finished building: default.size.stdout
+ 
+Finished building: 008_Task_PrioSwap.list
+ 
+
+10:32:27 Build Finished. 0 errors, 0 warnings. (took 1s.908ms)
+

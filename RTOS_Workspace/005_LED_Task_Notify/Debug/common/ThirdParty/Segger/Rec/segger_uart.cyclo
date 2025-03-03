@@ -1,0 +1,10 @@
+../Drivers/CMSIS/Include/core_cm7.h:1896:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm7.h:2024:22:__NVIC_SetPriority	2
+D:/Solomon/SelfLearning/Udemy/EmbeddedRTOS/RTOS_Workspace/common/ThirdParty/Segger/Rec/segger_uart.c:187:13:_StartSysView	2
+D:/Solomon/SelfLearning/Udemy/EmbeddedRTOS/RTOS_Workspace/common/ThirdParty/Segger/Rec/segger_uart.c:205:13:_cbOnUARTRx	2
+D:/Solomon/SelfLearning/Udemy/EmbeddedRTOS/RTOS_Workspace/common/ThirdParty/Segger/Rec/segger_uart.c:227:12:_cbOnUARTTx	3
+D:/Solomon/SelfLearning/Udemy/EmbeddedRTOS/RTOS_Workspace/common/ThirdParty/Segger/Rec/segger_uart.c:261:6:SEGGER_UART_init	1
+D:/Solomon/SelfLearning/Udemy/EmbeddedRTOS/RTOS_Workspace/common/ThirdParty/Segger/Rec/segger_uart.c:281:6:HIF_UART_WaitForTxEnd	3
+D:/Solomon/SelfLearning/Udemy/EmbeddedRTOS/RTOS_Workspace/common/ThirdParty/Segger/Rec/segger_uart.c:323:6:USART3_IRQHandler	7
+D:/Solomon/SelfLearning/Udemy/EmbeddedRTOS/RTOS_Workspace/common/ThirdParty/Segger/Rec/segger_uart.c:399:6:HIF_UART_EnableTXEInterrupt	1
+D:/Solomon/SelfLearning/Udemy/EmbeddedRTOS/RTOS_Workspace/common/ThirdParty/Segger/Rec/segger_uart.c:419:6:HIF_UART_Init	3

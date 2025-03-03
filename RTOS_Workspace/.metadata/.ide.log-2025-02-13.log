@@ -1,0 +1,19 @@
+2025-02-14 03:29:27,838 [INFO] WebApp:190 - Connection lost
+2025-02-14 03:29:46,263 [INFO] WebApp:187 - Connection restablished
+2025-02-14 03:29:46,331 [INFO] WebApp:190 - Connection lost
+2025-02-14 03:29:46,511 [INFO] WebApp:187 - Connection restablished
+2025-02-14 03:29:49,512 [INFO] WebApp:190 - Connection lost
+2025-02-14 03:29:49,717 [INFO] WebApp:187 - Connection restablished
+2025-02-14 03:50:44,786 [INFO] WebApp:190 - Connection lost
+2025-02-14 03:53:10,800 [INFO] WebApp:187 - Connection restablished
+2025-02-14 04:03:08,793 [INFO] WebApp:190 - Connection lost
+2025-02-14 04:13:19,575 [INFO] WebApp:187 - Connection restablished
+2025-02-14 04:13:21,992 [INFO] WebApp:190 - Connection lost
+2025-02-14 04:13:22,227 [INFO] WebApp:187 - Connection restablished
+2025-02-14 04:57:22,238 [INFO] WebApp:190 - Connection lost
+2025-02-14 04:57:25,026 [INFO] WebApp:187 - Connection restablished
+2025-02-14 04:57:25,157 [INFO] WebApp:190 - Connection lost
+2025-02-14 04:57:25,328 [INFO] WebApp:187 - Connection restablished
+2025-02-14 04:57:26,936 [INFO] WebApp:190 - Connection lost
+2025-02-14 04:57:27,178 [INFO] WebApp:187 - Connection restablished
+2025-02-14 04:57:34,529 [INFO] WebApp:389 - JxBrowser engine has been closed 

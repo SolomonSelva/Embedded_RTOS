@@ -1,0 +1,10 @@
+11:25:31 **** Incremental Build of configuration Debug for project 009_Idle_Hook_PowerSaving ****
+make -j8 all 
+arm-none-eabi-size  009_Idle_Hook_PowerSaving.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30904	     28	  51860	  82792	  14368	009_Idle_Hook_PowerSaving.elf
+Finished building: default.size.stdout
+ 
+
+11:25:32 Build Finished. 0 errors, 0 warnings. (took 792ms)
+

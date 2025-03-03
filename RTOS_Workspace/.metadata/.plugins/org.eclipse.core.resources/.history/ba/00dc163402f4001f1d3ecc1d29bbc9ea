@@ -1,0 +1,55 @@
+/*
+ * task_handler.c
+ *
+ *  Created on: Feb 25, 2025
+ *      Author: solom
+ */
+#include "main.h"
+
+static void menu_task_handler(void* parameters);
+static void led_task_handler(void* parameters);
+static void rtc_task_handler(void* parameters);
+static void print_task_handler(void* parameters);
+static void command_task_handler(void* parameters);
+
+static void menu_task_handler(void* parameters)
+{
+	while (1)
+	{
+
+	}
+
+}
+
+static void led_task_handler(void* parameters)
+{
+	while(1)
+	{
+
+	}
+}
+
+static void rtc_task_handler(void* parameters)
+{
+	while(1)
+	{
+
+	}
+
+}
+static void print_task_handler(void* parameters)
+{
+	while (1)
+	{
+
+	}
+
+}
+
+static void command_task_handler(void* parameters)
+{
+	while(1)
+	{
+
+	}
+}

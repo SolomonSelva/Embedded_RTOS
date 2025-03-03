@@ -1,0 +1,52 @@
+2025-02-23 06:58:28,281 [INFO] WebApp:190 - Connection lost
+2025-02-23 06:58:39,415 [INFO] WebApp:187 - Connection restablished
+2025-02-23 06:58:41,795 [INFO] WebApp:190 - Connection lost
+2025-02-23 06:58:42,061 [INFO] WebApp:187 - Connection restablished
+2025-02-23 06:58:44,971 [INFO] WebApp:190 - Connection lost
+2025-02-23 06:58:45,263 [INFO] WebApp:187 - Connection restablished
+2025-02-23 07:05:45,520 [INFO] WebApp:190 - Connection lost
+2025-02-23 07:05:47,568 [INFO] WebApp:187 - Connection restablished
+2025-02-23 07:05:49,940 [INFO] WebApp:190 - Connection lost
+2025-02-23 07:05:50,228 [INFO] WebApp:187 - Connection restablished
+2025-02-23 07:05:53,015 [INFO] WebApp:190 - Connection lost
+2025-02-23 07:05:53,345 [INFO] WebApp:187 - Connection restablished
+2025-02-23 07:05:56,884 [INFO] WebApp:190 - Connection lost
+2025-02-23 07:05:57,186 [INFO] WebApp:187 - Connection restablished
+2025-02-23 07:52:05,058 [INFO] Gpio:277 - dependency for GPIO []
+2025-02-23 08:05:19,583 [INFO] Gpio:277 - dependency for GPIO []
+2025-02-23 08:06:14,251 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 401647936 Bytes (1073741824)
+2025-02-23 08:06:16,329 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 431762344 Bytes (1073741824)
+2025-02-23 08:06:25,337 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 549651584 Bytes (1073741824)
+2025-02-23 08:06:26,118 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2025-02-23 08:06:26,118 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2025-02-23 08:06:26,119 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2025-02-23 08:06:26,120 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2025-02-23 08:06:26,122 [INFO] CodeGenerator:896 - code generatio: config db path: D:\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.13.0.202411220809\\db\
+2025-02-23 08:06:26,393 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\MXTmpFiles\license.tmp_save
+2025-02-23 08:06:26,858 [INFO] CodeEngine:279 - Generated code: D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\MXTmpFiles\license.tmp
+2025-02-23 08:06:27,063 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\MXTmpFiles\gpio.tmp_save
+2025-02-23 08:06:27,344 [INFO] CodeEngine:279 - Generated code: D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\MXTmpFiles\gpio.tmp
+2025-02-23 08:06:27,623 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\MXTmpFiles\cortex.tmp_save
+2025-02-23 08:06:27,807 [INFO] CodeEngine:279 - Generated code: D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\MXTmpFiles\cortex.tmp
+2025-02-23 08:06:27,858 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\Core\Src\stm32f7xx_it.c_save
+2025-02-23 08:06:28,523 [INFO] CodeEngine:279 - Generated code: D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\Core\Src\stm32f7xx_it.c
+2025-02-23 08:06:28,553 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\Core\Inc\stm32f7xx_it.h_save
+2025-02-23 08:06:28,725 [INFO] CodeEngine:279 - Generated code: D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\Core\Inc\stm32f7xx_it.h
+2025-02-23 08:06:28,789 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\Core\Src\stm32f7xx_hal_msp.c_save
+2025-02-23 08:06:28,995 [INFO] CodeEngine:279 - Generated code: D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\Core\Src\stm32f7xx_hal_msp.c
+2025-02-23 08:06:29,007 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\MXTmpFiles\system.tmp_save
+2025-02-23 08:06:29,120 [INFO] CodeEngine:279 - Generated code: D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\MXTmpFiles\system.tmp
+2025-02-23 08:06:29,152 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\Core\Src\stm32f7xx_hal_timebase_tim.c_save
+2025-02-23 08:06:29,422 [INFO] CodeEngine:279 - Generated code: D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\Core\Src\stm32f7xx_hal_timebase_tim.c
+2025-02-23 08:06:29,494 [INFO] CodeEngine:311 - oldGeneratedFile, D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\Core\Inc\stm32f7xx_hal_conf.h_save
+2025-02-23 08:06:29,718 [INFO] CodeEngine:335 - Generated code: D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\Core\Inc\stm32f7xx_hal_conf.h
+2025-02-23 08:06:29,842 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\Core\Inc\main.h_save
+2025-02-23 08:06:30,065 [INFO] CodeEngine:279 - Generated code: D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\Core\Inc\main.h
+2025-02-23 08:06:30,108 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\Core\Src\main.c_save
+2025-02-23 08:06:30,385 [INFO] CodeEngine:279 - Generated code: D:\Solomon\SelfLearning\Udemy\EmbeddedRTOS\RTOS_Workspace\002_ToggleLEDs\Core\Src\main.c
+2025-02-23 08:06:31,006 [INFO] ProjectBuilder:3289 - Time for Copy HAL[1] : 286mS.
+2025-02-23 08:06:31,013 [INFO] ProjectBuilder:4876 - Project Generator version: 4.5.0-RC5
+2025-02-23 08:06:31,210 [INFO] ConfigFileManager:1579 - The Die is : DIE451
+2025-02-23 08:06:35,049 [INFO] ProjectBuilder:5154 - Time for Generating toolchain IDE Files: 4036mS.
+2025-02-23 08:06:35,051 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.
+2025-02-23 08:06:35,055 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.

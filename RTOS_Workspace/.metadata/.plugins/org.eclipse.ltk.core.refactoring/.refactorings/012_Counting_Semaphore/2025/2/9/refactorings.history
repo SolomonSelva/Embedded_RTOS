@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;012_Counting_Semaphore/011_Binary_Semaphore.ioc&apos; to &apos;012_Counting_Semaphore.ioc&apos;" description="Rename resource &apos;011_Binary_Semaphore.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="011_Binary_Semaphore.ioc" name="012_Counting_Semaphore.ioc" stamp="1740731430904" updateReferences="true"/>
+</session>
